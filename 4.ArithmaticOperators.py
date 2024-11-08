@@ -1,0 +1,25 @@
+#arithmatic operators ---> +  -  *  /  //  **
+a=10
+b=2
+c=a+b
+print("Add:",c)
+a=10
+b=2
+c=a-b
+print("Add:",c)
+a=10
+b=2
+c=a*b
+print("Add:",c)
+a=10
+b=2
+c=a/b
+print("Add:",c)
+a=10
+b=2
+c=a//b
+print("Add:",c)
+a=10
+b=2
+c=a**b
+print("Add:",c)
