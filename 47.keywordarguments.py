@@ -1,4 +1,4 @@
-def display(name,age,salary):
+def display (name,age,salary):
     print("Name:",name)
     print("Salary:",salary)
     print("Age:",age)
