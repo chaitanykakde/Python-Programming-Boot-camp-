@@ -5,7 +5,7 @@ if x<y:
 if x>y:
     print("x is grator than y")
 if x==y:
-    print("x is equal to y")
+    print("x is equal to y") 
 
 
 
